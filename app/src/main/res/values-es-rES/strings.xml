@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CAS 2016</string>
+    <string name="generic_error">¯\\\\_(ツ)_/¯</string>
+    <string name="connection_error">Problemas con la conexión. Contacte con su administrador</string>
+    <string name="speakers_title">@string/speakers</string>
+    <string name="rooms_title">Salas</string>
+    <string name="blank_block"></string>
+    <string name="schedule">Horario</string>
+    <string name="speakers">Ponentes</string>
+    <string name="room">Sala</string>
+    <string name="tab_one_title">día uno</string>
+    <string name="tab_two_title">día dos</string>
+    <string name="sessions">Ponencias</string>
+    <string name="no_info">No info</string>
+    <string name="description">Descripción</string>
+    <string name="seats">Plazas</string>
+</resources>

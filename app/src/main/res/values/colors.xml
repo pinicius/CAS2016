@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00b8d4</color>
+    <color name="colorPrimaryDark">#058fa3</color>
+    <color name="colorAccent">@color/cas_red</color>
+    <color name="loading">#ffffff</color>
+    <color name="cas_orange">#f7991f</color>
+    <color name="cas_orange_with_transparency">#88f7991f</color>
+    <color name="cas_red">#ed1a42</color>
+    <color name="black_with_transparency">#22000000</color>
+</resources>

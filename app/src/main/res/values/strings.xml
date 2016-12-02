@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CAS 2016</string>
+    <string name="generic_error">¯\\\\_(ツ)_/¯</string>
+    <string name="connection_error">Connection problems. Ask your admin</string>
+    <string name="speakers_title">@string/speakers</string>
+    <string name="rooms_title">Rooms</string>
+    <string name="blank_block"></string>
+    <string name="schedule">Schedule</string>
+    <string name="speakers">Speakers</string>
+    <string name="room">Room</string>
+    <string name="tab_one_title">day one</string>
+    <string name="tab_two_title">day two</string>
+    <string name="sessions">sessions</string>
+    <string name="no_info">No info</string>
+    <string name="description">Description</string>
+    <string name="seats">Plazas</string>
+</resources>
