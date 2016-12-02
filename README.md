@@ -5,8 +5,8 @@ Aplicación no-oficial de la CAS 2016 (Conferencia Agile Spain 2016)
 
 Descripción
 ------------
-Como consecuencia de este fatídico tuit ;) https://twitter.com/confagilespain/status/794493238728081409 decidí desarrollar un cliente (libraría Android [CASAndroidApiClient][casandroidapiclienturl]) para el Api que desde la CAS ponían a nuestra disposición.
-Finalmente, con las ganas de probar [Rosie][rosierul], el Framework que desde Karumi han desarrollado con tanto amor, decidí hacer una sencilla aplicación con tres objetivos en mente:
+A consecuencia de este fatídico tuit ;) https://twitter.com/confagilespain/status/794493238728081409 decidí desarrollar un cliente (librería Android [CASAndroidApiClient][casandroidapiclienturl]) para el Api que desde la CAS ponían a nuestra disposición.
+Finalmente, con las ganas de probar [Rosie][rosieurl], el Framework que desde Karumi han desarrollado con tanto amor, decidí hacer una sencilla aplicación con tres objetivos en mente:
 
 * **Mejorar** como desarrollador.
 * **Agradecer** a empresas como Karumi su trabajo, usando las herramientas y conociento que ponen a disposición de la Comunidad.
